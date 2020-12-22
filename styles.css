@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(161, 161, 161);
+}
+
+#fontcolor{
+    background-color: rgb(255, 38, 0);
+}
+
+.moveMyImage{
+    margin-left: 200px;
+}
+
+.paddingDivisions{
+    padding-top: 50px;
+}
